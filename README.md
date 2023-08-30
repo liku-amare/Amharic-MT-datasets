@@ -43,3 +43,9 @@ doi={10.1109/ICT4DA56482.2022.9971385}
   <li> https://github.com/admasethiopia
   <li> https://github.com/geezorg መጽሐፍት፣ መዝገበ ቃላት፣ መጽሔቶች፣ ወዘተ ... 
 </ul> 
+
+## External Links 
+<ul>
+    <li>Corpus: https://data.statmt.org/cc-100/</li>
+    <li>News Data: https://data.statmt.org/news-crawl/am/ </li>
+</ul>
