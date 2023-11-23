@@ -8,7 +8,7 @@ Hadgu, Asmelash Teka, Beaudoin, Adam, & Aregawi, Abel. (2020). Machine Translati
 ```
 
 ## Amharic-English Parallel Corpus (145,820 pairs)
-Link: [link] (https://www.findke.ovgu.de/findke/en/Research/Data+Sets/Amharic_English+Parallel+Corpus-p-1144.html) 
+Link: [link](https://www.findke.ovgu.de/findke/en/Research/Data+Sets/Amharic_English+Parallel+Corpus-p-1144.html) 
 ```
 @inproceedings{gezmu-etal-2022-extended,
     title = "Extended Parallel Corpus for {A}mharic-{E}nglish Machine Translation",
